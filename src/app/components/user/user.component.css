@@ -1,0 +1,14 @@
+div {
+  margin: 1em 0;
+}
+
+.name {
+  margin-top: .5em;
+  font-weight: 600;
+  font-size: 20px;
+  color: #2A2E34;
+}
+
+.info {
+  color: #BEC2C6;
+}
